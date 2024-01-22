@@ -1,0 +1,14 @@
+*{box-sizing: border-box; margin: 0; padding: 0;}
+img{
+    width: 100vh;
+}
+.card{
+    cursor: pointer;
+    background-attachment: scroll;
+}
+.card-text{
+    text-align: start;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21px;
+}
