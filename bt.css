@@ -6,9 +6,13 @@ img{
     cursor: pointer;
     background-attachment: scroll;
 }
+#middle-card{
+margin: -0.5rem;
+}
 .card-text{
     text-align: start;
     font-size: 18px;
     font-weight: 500;
     line-height: 21px;
+    
 }
